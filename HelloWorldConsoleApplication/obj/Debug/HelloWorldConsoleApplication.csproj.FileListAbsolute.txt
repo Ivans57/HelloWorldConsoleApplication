@@ -4,3 +4,9 @@ D:\Business\IT\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldCon
 D:\Business\IT\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\obj\Debug\HelloWorldConsoleApplication.csprojResolveAssemblyReference.cache
 D:\Business\IT\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\obj\Debug\HelloWorldConsoleApplication.exe
 D:\Business\IT\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\obj\Debug\HelloWorldConsoleApplication.pdb
+C:\Users\Ivan\Business\it\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\bin\Debug\HelloWorldConsoleApplication.exe.config
+C:\Users\Ivan\Business\it\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\obj\Debug\HelloWorldConsoleApplication.exe
+C:\Users\Ivan\Business\it\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\obj\Debug\HelloWorldConsoleApplication.pdb
+C:\Users\Ivan\Business\it\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\bin\Debug\HelloWorldConsoleApplication.exe
+C:\Users\Ivan\Business\it\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\bin\Debug\HelloWorldConsoleApplication.pdb
+C:\Users\Ivan\Business\it\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\obj\Debug\HelloWorldConsoleApplication.csprojResolveAssemblyReference.cache
