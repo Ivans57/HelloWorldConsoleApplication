@@ -1,0 +1,6 @@
+D:\Business\IT\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\bin\Debug\HelloWorldConsoleApplication.exe.config
+D:\Business\IT\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\bin\Debug\HelloWorldConsoleApplication.exe
+D:\Business\IT\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\bin\Debug\HelloWorldConsoleApplication.pdb
+D:\Business\IT\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\obj\Debug\HelloWorldConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Business\IT\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\obj\Debug\HelloWorldConsoleApplication.exe
+D:\Business\IT\Coding\projects\DotNet\HelloWorldConsoleApplication\HelloWorldConsoleApplication\obj\Debug\HelloWorldConsoleApplication.pdb
